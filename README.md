@@ -3,8 +3,8 @@ This repository contains solutions to three distinct problems: **Daily Steps Tra
 
 ## Video Tutorial
 For a more detailed explanation, you can check out the video tutorials below:
-- [video 1 **Daily Steps Tracker** and **Library Book Borrowing Analysis**]()
-* [video 2 **Word Scramble Game**]()
+- [video 1 **Daily Steps Tracker** and **Library Book Borrowing Analysis**](https://drive.google.com/file/d/1Y1KhgvPU_Dkl-pb99_VxP3O7AHM8iyCF/view?usp=drive_link)
+* [video 2 **Word Scramble Game**](https://drive.google.com/file/d/1mYWqBovd8DX4LvNRmovY3GCrjW5o2HUk/view?usp=drive_link)
 
 ## Problem 1: Daily Steps Tracker
 ### Description
