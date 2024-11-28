@@ -13,4 +13,10 @@ def task1():
     print("average daily step: ",sum(array)/len(array))
 task1()
 
+def random_input():
+    array = [random.randint(1,100) for _ in range(30)]
+    for _ in array:
+        print(_,end=" ")
+# random_input()
+
 
