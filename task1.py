@@ -1,11 +1,9 @@
 import random
 def task1():
-    array=[]
+    array=list(map(int,input("Enter your steps count ").split()))
     
     
-    for i in range(3):
-        number=int(input("enter step count today:"))
-        array.append(number)
+        
         
        
     array.sort(reverse = True)
